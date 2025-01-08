@@ -19,4 +19,4 @@ A modern and minimalist weather app that allows users to check the current weath
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/HasanArthurAltuntas/weather-app.git
+   git clone https://github.com/HasanArthurAltuntas/Weather-App.git
